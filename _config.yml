@@ -1,0 +1,14 @@
+layout_spectrum: 0.5255585452541709
+typography_spectrum: 0.03151537314988673
+color:
+  brandStrength: 0.25906634773127735
+  lightness: 0.9275663094595075
+  saturation: 0.8206610269844532
+  rhythmicContrast: 0.5421122401021421
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Makerstreet
