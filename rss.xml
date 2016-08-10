@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Makerstreet]]></title>
+        <description><![CDATA[Makerstreet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Aug 2016 14:22:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[kmopkopiojp]]></title>
+            <description><![CDATA[<article><h1>kmopkopiojp</h1><p>oijpijopijp</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4189805cbcffbf1c9c91ef220d986f2e5c0286e1.png"></article>]]></description>
+            <link>https://www.makerstreet.nl/product-life-cycle/</link>
+            <guid isPermaLink="false">9d3382a4-a9ce-44ff-9c19-ccedd0513050</guid>
+            <pubDate>Wed, 10 Aug 2016 14:22:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
