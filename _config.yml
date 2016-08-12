@@ -19,5 +19,8 @@ navigation:
   - name: 1. Innovate
     id: 2ee485e6-02b8-4e5d-b9c0-f2930f9a8a3f
     type: content
+  - name: 2. Strategise
+    id: 9117f954-eef2-41de-8dcc-b294b4313c65
+    type: content
 title: Tailormade digital
 description: ''
