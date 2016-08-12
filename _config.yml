@@ -12,5 +12,9 @@ color:
     - '#011C26'
 layout_spectrum: 0.5255585452541709
 name: Makerstreet
+navigation:
+  - name: Product life cycle
+    id: 2ee485e6-02b8-4e5d-b9c0-f2930f9a8a3f
+    type: content
 title: Tailormade digital
 description: ''
