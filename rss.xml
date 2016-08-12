@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Makerstreet]]></title>
-        <description><![CDATA[Makerstreet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Tailormade digital]]></title>
+        <description><![CDATA[Tailormade digital]]></description>
+        <link>https://thegrid.ai/makerstreet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 14:22:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Aug 2016 12:35:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/makerstreet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Makerstreet]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d264e7-8710-4823-b8ca-605fcfe16e14.png">]]></description>
+            <link>https://www.makerstreet.nl</link>
+            <guid isPermaLink="false">d7dd3331-f368-4eeb-ac18-7541fdf43be1</guid>
+            <pubDate>Fri, 12 Aug 2016 12:34:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[kmopkopiojp]]></title>
             <description><![CDATA[<article><h1>kmopkopiojp</h1><p>oijpijopijp</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4189805cbcffbf1c9c91ef220d986f2e5c0286e1.png"></article>]]></description>
