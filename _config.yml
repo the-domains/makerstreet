@@ -12,5 +12,9 @@ color:
     - '#011C26'
 layout_spectrum: 0.5255585452541709
 name: Makerstreet
+navigation:
+  - name: We make successful results together
+    id: 5c69a9f4-9854-4b64-9047-f565c373d719
+    type: content
 title: Makerstreet
 description: Tailermade Digital
